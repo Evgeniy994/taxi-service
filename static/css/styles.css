@@ -1,5 +1,7 @@
 body {
-    margin-top: 20px;
+    position: relative;
+    min-height: 100vh;
+    padding-top: 20px;
 }
 
 .background {
