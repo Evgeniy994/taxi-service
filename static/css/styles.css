@@ -14,18 +14,3 @@ body {
     top: 0;
     left: 0;
 }
-
-
-.sidebar-col{
-    background-color: darkolivegreen;
-}
-
-.text-ref{
-    max-width: 200px;
-    color: darkslategrey;
-    font-weight:bold;
-}
-
-.page-link{
-    color: #6c757d;
-}
